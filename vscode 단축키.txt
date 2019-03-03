@@ -1,0 +1,5 @@
+tsc --init 
+tsconfig.json 생성
+
+Ctrl+Shift+B 단축키로 손쉬게 빌드 작업
+Ctrl+Shift+M 문제 메뉴 열기
